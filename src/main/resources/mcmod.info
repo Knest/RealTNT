@@ -1,0 +1,10 @@
+[
+{
+  "modid": "RealTNT",
+  "name": "RealTNT",
+  "description": "An enchanted tnt exploding.",
+  "version": "${version}",
+  "url": "http://nesteria.pl/",
+  "authorList": [ "Szperak" ]
+}
+]
