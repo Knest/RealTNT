@@ -1,4 +1,4 @@
-Mineshot
+RealTNT
 ========
 
-A Minecraft mod for creating high resolution screenshots.
+Adds a real explosion animation.
